@@ -1,8 +1,8 @@
 # Product Catalog — Web Application
 
 ## Team Information
-Academic group: (впиши свою группу, например ВТ-234)
-Team name: (впиши название команды из формы регистрации)
+Academic group: BDA-2503
+Team name: Sociology_bda2503
 Project track: Web CRUD
 Project topic: Product Catalog
 
@@ -28,7 +28,7 @@ python app.py
 Open in browser: http://127.0.0.1:5000
 
 ## Demo Video
-(вставь ссылку на видео после записи)
+-----
 
 ## Report
 The final report is submitted on Moodle as PDF.
